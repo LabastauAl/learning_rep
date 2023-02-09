@@ -6,3 +6,5 @@ Add some new info from remote - Github
 -----
 A few more changes
 for git GUI
+
+ASS
