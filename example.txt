@@ -2,3 +2,7 @@ Some Original text
 09/02/2023
 
 Add some new info from remote - Github
+
+-----
+A few more changes
+for git GUI
