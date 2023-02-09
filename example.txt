@@ -7,4 +7,6 @@ Add some new info from remote - Github
 A few more changes
 for git GUI
 
-ASS
+___
+New content for Git REVERT
+---
